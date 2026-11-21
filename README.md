@@ -1,6 +1,6 @@
-<div align="center">
+[![awesome-lead-generation](image/awesome-programmatic.png)](https://github.com/adops-tool/awesome-programmatic/pulls)
 
-# Awesome Programmatic
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 **A curated, engineer-grade map of open-source ad tech, official IAB specifications, and the tooling that keeps the programmatic supply chain honest.**
 
