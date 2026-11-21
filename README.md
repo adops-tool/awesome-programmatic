@@ -4,15 +4,13 @@
 
 **A curated, engineer-grade map of open-source ad tech, official IAB specifications, and the tooling that keeps the programmatic supply chain honest.**
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%A8-blueviolet?style=flat-square)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/adops-tool/awesome-programmatic/pulls)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey?style=flat-square)](LICENSE)
-
 <sub>Open source, official specs, and primary-source documentation only — no closed SaaS, no vendor marketing. Legacy and archived projects are flagged in their descriptions.</sub>
 
-</div>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 
----
+</div>
 
 ## Table of Contents
 
