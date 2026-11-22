@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Awesome Programmatic](image/awesome-programmatic.png)
 
 # Awesome Programmatic
@@ -10,7 +12,9 @@ A curated list of open-source software, standards, documentation, and learning r
 
 The list focuses on technical resources and primary sources rather than commercial product directories. Historical resources are labelled **legacy**, **unmaintained**, **archived**, or **deprecated** where relevant; check compatibility and maintenance before using them.
 
-**Legend:** ![github](image/alg_R.png) GitHub repository · ![web](image/alg_I.png) website or online document.
+</div>
+
+> Each entry is marked with the kind of resource it is: ![github](image/alg_R.png) open-source repository, ![web](image/alg_I.png) documentation, specification, or hosted tool. Dormant and archived projects are kept when they still explain an architecture — they are labeled as such.
 
 ## Table of Contents
 
