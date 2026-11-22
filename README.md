@@ -107,9 +107,13 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ![github](image/alg_R.png) [OpenDirect](https://github.com/InteractiveAdvertisingBureau/OpenDirect) - IAB Tech Lab API specification for programmatic direct orders and line items.
 
+![github](image/alg_R.png) [Universal Creative Identification Framework](https://github.com/IABTechLab/ucid) - Specification for creating and verifying unique creative identifiers (draft).
+
 ### Rich Media & In-App Standards
 
 ![github](image/alg_R.png) [MRAID 3.0 Compliance Ads](https://github.com/InteractiveAdvertisingBureau/MRAID-3.0-Compliance-Ads) - Sample creatives for testing MRAID 3.0 implementations (last updated 2018).
+
+![github](image/alg_R.png) [SafeFrame Reference Implementation](https://github.com/InteractiveAdvertisingBureau/safeframe) - IAB reference implementation of the SafeFrame container for publisher advertising (legacy; last updated 2021).
 
 ![github](image/alg_R.png) [SHARC](https://github.com/IABTechLab/SHARC) - IAB specification for communication between HTML ad creatives and their host containers.
 
@@ -138,6 +142,8 @@ The list focuses on technical resources and primary sources rather than commerci
 ![github](image/alg_R.png) [OpenRTB 3.0 Converter](https://github.com/InteractiveAdvertisingBureau/openrtb3-converter) - Java library converting requests and responses between OpenRTB 2.3–2.5 and 3.0 (legacy).
 
 ![github](image/alg_R.png) [OpenRTB Data Models](https://github.com/InteractiveAdvertisingBureau/openrtb-model) - Java data models for OpenRTB 2.x and 3.0 (legacy).
+
+![github](image/alg_R.png) [OpenRTB Protobuf Libraries](https://github.com/IABTechLab/openrtb-proto-v2) - OpenRTB 2.x Protocol Buffer bindings and Java JSON utilities (deprecated).
 
 ![github](image/alg_R.png) [prebid/openrtb](https://github.com/prebid/openrtb) - Go types and enumerations for OpenRTB, AdCOM, and Native Ads.
 
@@ -187,7 +193,11 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ### Header Bidding Debugging & Setup
 
+![github](image/alg_R.png) [Ad Manager Viewability Insights](https://github.com/googleads/googleads-viewability-insights-extension) - Chrome DevTools extension for inspecting Ad Manager ad-slot viewability (beta).
+
 ![github](image/alg_R.png) [AdTrace GAM Inspector](https://github.com/adops-tool/adtrace-gam-inspector) - Chrome DevTools extension for inspecting Google Ad Manager requests, targeting, and bidding signals.
+
+![github](image/alg_R.png) [Google Publisher Tag Playground](https://github.com/googleads/google-publisher-tag-playground) - Interactive code playground for Google Publisher Tag examples.
 
 ![github](image/alg_R.png) [Google Publisher Tag Samples](https://github.com/googleads/google-publisher-tag-samples) - Sample code for implementing ad slots and publisher-tag features.
 
@@ -195,7 +205,11 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ![github](image/alg_R.png) [Prebid and GAM Setup Tool](https://github.com/kmjennison/dfp-prebid-setup) - Generates Google Ad Manager line items for Prebid.js deployments.
 
+![github](image/alg_R.png) [Prebid Integration Monitor](https://github.com/prebid/prebid-integration-monitor) - TypeScript project for monitoring Prebid integrations.
+
 ![github](image/alg_R.png) [Professor Prebid](https://github.com/prebid/professor-prebid) - Browser debugging tool for inspecting Prebid auctions and ad units.
+
+![github](image/alg_R.png) [Publisher Ads Audits for Lighthouse](https://github.com/googleads/publisher-ads-lighthouse-plugin) - Lighthouse plugin for auditing publisher ad performance, primarily for Google Ad Manager.
 
 ---
 
@@ -233,6 +247,10 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ![github](image/alg_R.png) [ads.cert OpenRTB 3.0 Verifier](https://github.com/InteractiveAdvertisingBureau/ads-cert-openrtb3-verifier) - Java verifier for signed OpenRTB 3.0 bid requests under the original ads.cert design (legacy).
 
+![github](image/alg_R.png) [Attribution Use Cases](https://github.com/InteractiveAdvertisingBureau/Attribution-Use-Cases) - IAB Tech Lab use cases for emerging privacy-focused attribution APIs (work in progress).
+
+![github](image/alg_R.png) [Event and Conversion API](https://github.com/InteractiveAdvertisingBureau/ecapi) - IAB Tech Lab specification for exchanging marketing events between advertisers and advertising platforms.
+
 ![github](image/alg_R.png) [Open Measurement JS Clients](https://github.com/InteractiveAdvertisingBureau/Open-Measurement-JSClients) - JavaScript clients for integrating with the Open Measurement interface.
 
 ![web](image/alg_I.png) [Open Measurement SDK](https://iabtechlab.com/standards/open-measurement-sdk/) - IAB Tech Lab's SDK programme and integration resources for ad measurement.
@@ -267,6 +285,8 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ![github](image/alg_R.png) [UID2 Android SDK](https://github.com/IABTechLab/uid2-android-sdk) - Android SDK for integrating Unified ID 2.0 into applications.
 
+![github](image/alg_R.png) [UID2 Integration Examples](https://github.com/IABTechLab/uid2-examples) - Sample UID2 and EUID integrations for Prebid.js, Google Secure Signals, and other workflows.
+
 ![github](image/alg_R.png) [UID2 iOS SDK](https://github.com/IABTechLab/uid2-ios-sdk) - iOS SDK for integrating Unified ID 2.0 into applications.
 
 ![web](image/alg_I.png) [Unified ID 2.0 Documentation](https://unifiedid.com/docs/intro) - Overview of the UID2 framework and integration workflows (participation requires an agreement).
@@ -297,6 +317,8 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ### VAST Parsers & Test Tools
 
+![web](image/alg_I.png) [DAI Sample Streams](https://developers.google.com/ad-manager/dynamic-ad-insertion/streams) - Google test streams and identifiers for live and on-demand dynamic ad insertion.
+
 ![github](image/alg_R.png) [IAB VAST Tester](https://github.com/InteractiveAdvertisingBureau/vasttester) - Repository for IAB Tech Lab's VAST tag testing interface (licence not specified).
 
 ![github](image/alg_R.png) [php-vast](https://github.com/sokil/php-vast) - PHP library for generating and parsing VAST documents.
@@ -310,6 +332,8 @@ The list focuses on technical resources and primary sources rather than commerci
 ![github](image/alg_R.png) [AndroidX Media3](https://github.com/androidx/media) - Android media libraries including ExoPlayer and ad-integration components.
 
 ![github](image/alg_R.png) [hls.js](https://github.com/video-dev/hls.js) - JavaScript library for HLS playback in browsers using Media Source Extensions.
+
+![github](image/alg_R.png) [Prebid Outstream Renderer](https://github.com/prebid/prebid-outstream) - JavaScript library for rendering outstream video ads.
 
 ![github](image/alg_R.png) [rmp-vast](https://github.com/radiantmediaplayer/rmp-vast) - JavaScript library for loading, parsing, and displaying VAST ads with HTML5 video.
 
@@ -325,9 +349,15 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ### Video SDK Samples
 
+![github](image/alg_R.png) [Android IMA DAI Samples](https://github.com/googleads/googleads-ima-android-dai) - Sample integrations for dynamic ad insertion with the Android IMA SDK.
+
 ![github](image/alg_R.png) [Android IMA Samples](https://github.com/googleads/googleads-ima-android) - Google's sample integrations for the Android Interactive Media Ads SDK.
 
+![github](image/alg_R.png) [HTML5 IMA DAI Samples](https://github.com/googleads/googleads-ima-html5-dai) - Sample dynamic ad insertion integrations for HTML5 players including HLS.js and DASH.js.
+
 ![github](image/alg_R.png) [HTML5 IMA Samples](https://github.com/googleads/googleads-ima-html5) - Google's sample integrations for the HTML5 Interactive Media Ads SDK.
+
+![github](image/alg_R.png) [iOS IMA DAI Samples](https://github.com/googleads/googleads-ima-ios-dai) - Sample integrations for dynamic ad insertion with the iOS IMA SDK.
 
 ![github](image/alg_R.png) [iOS IMA Samples](https://github.com/googleads/googleads-ima-ios) - Google's sample integrations for the iOS Interactive Media Ads SDK.
 
@@ -371,11 +401,19 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ### Developer Documentation
 
+![web](image/alg_I.png) [Authorized Buyers Bid Request Guide](https://developers.google.com/authorized-buyers/rtb/get-started/request-guide) - Guide to parsing Google bid requests and interpreting real-time feedback.
+
+![web](image/alg_I.png) [Authorized Buyers Bid Response Guide](https://developers.google.com/authorized-buyers/rtb/get-started/response-guide) - Guide to building bid responses, with examples for different inventory types.
+
 ![web](image/alg_I.png) [Authorized Buyers OpenRTB Guide](https://developers.google.com/authorized-buyers/rtb/openrtb-guide) - Google's reference for its OpenRTB fields, extensions, and bid examples.
+
+![github](image/alg_R.png) [Authorized Buyers RTB API Samples](https://github.com/googleads/authorized-buyers-rtb-api-samples) - Command-line code samples for the Authorized Buyers Real-time Bidding API.
 
 ![web](image/alg_I.png) [Authorized Buyers RTB Guide](https://developers.google.com/authorized-buyers/rtb/get-started/start) - Google's introduction to integrating a bidder with Authorized Buyers.
 
 ![web](image/alg_I.png) [Authorized Buyers RTB Reference Data](https://developers.google.com/authorized-buyers/rtb/data) - Google's protocol definitions and reference dictionaries for its RTB integrations.
+
+![github](image/alg_R.png) [Display & Video 360 API Samples](https://github.com/googleads/googleads-displayvideo-examples) - Code examples for interacting with the Display & Video 360 API.
 
 ![web](image/alg_I.png) [Google Publisher Tag Samples Documentation](https://developers.google.com/publisher-tag/samples) - Examples of ad slots, targeting, privacy settings, and events using Google Publisher Tag.
 
@@ -383,9 +421,21 @@ The list focuses on technical resources and primary sources rather than commerci
 
 ![web](image/alg_I.png) [IAB Tech Lab Standards](https://iabtechlab.com/standards/) - Index of IAB Tech Lab specifications, taxonomies, guidance, and software.
 
+![web](image/alg_I.png) [IMA HTML5 DAI Integration Guide](https://developers.google.com/ad-manager/dynamic-ad-insertion/sdk/html5/get-started?service=pod) - Google guide to integrating dynamic ad insertion and pod serving in an HTML5 player.
+
+![web](image/alg_I.png) [IMA HTML5 Integration Guide](https://developers.google.com/interactive-media-ads/docs/sdks/html5/client-side/get-started) - Google guide to requesting and playing video ads with the client-side IMA SDK.
+
+![web](image/alg_I.png) [Prebid Common Issues](https://docs.prebid.org/dev-docs/common-issues.html) - Troubleshooting guide for price granularity, line-item priority, and ad rendering.
+
 ![web](image/alg_I.png) [Prebid Docs](https://docs.prebid.org/) - Official documentation for Prebid.js, Prebid Server, and Prebid Mobile.
 
 ![github](image/alg_R.png) [Prebid Documentation Source](https://github.com/prebid/prebid.github.io) - Source repository for the official Prebid documentation and website.
+
+![web](image/alg_I.png) [Prebid Price Floors Module](https://docs.prebid.org/dev-docs/modules/floors.html) - Documentation for defining and enforcing price floors in Prebid.js.
+
+![web](image/alg_I.png) [Prebid Server Price Floors](https://docs.prebid.org/prebid-server/features/pbs-floors.html) - Documentation for server-side floor signalling, enforcement, and configuration.
+
+![web](image/alg_I.png) [Programmatic Advertising Workload Architecture](https://docs.aws.amazon.com/wellarchitected/latest/video-streaming-advertising-lens/scenario-01-programmatic-advertising.html) - AWS reference architecture and operational considerations for programmatic advertising workloads.
 
 ---
 
